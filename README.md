@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hasher Amin</h1>
 
-<!--
-**hasheramin/hasheramin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Developer • Designer • Curious Builder
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about creating clean software, intelligent solutions, and beautiful user experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## About Me
+
+- I'm a Developer and Designer from **Earth**.
+- I mainly work with **Python** and enjoy building useful software.
+- I'm exploring **Artificial Intelligence**, **Computer Vision**, and **Automation**.
+- I love learning new technologies and turning ideas into real-world projects.
+- I'm always learning and improving with every project I build.
