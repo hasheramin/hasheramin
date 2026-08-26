@@ -12,7 +12,7 @@ Passionate about creating clean software, intelligent solutions, and beautiful u
 
 ## About Me
 
-- I'm a Developer and Designer from **Earth, Asia, Pakistan, Lahore.**.
+- I'm a Developer and Designer from **Planet Earth**.
 - I mainly work with **Python** and enjoy building useful software.
 - I'm exploring **Artificial Intelligence**, **Computer Vision**, and **Automation**.
 - I love learning new technologies and turning ideas into real-world projects.
