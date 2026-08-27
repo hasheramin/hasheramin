@@ -1,8 +1,4 @@
-<h1 align="center">Hasher Amin</h1>
-
-<h3 align="center">
-Developer • Designer • Curious Builder
-</h3>
+<h1 align="center">Thei Real Hasher - Hasher Amin</h1>
 
 <p align="center">
 Passionate about creating clean software, intelligent solutions, and beautiful user experiences.
